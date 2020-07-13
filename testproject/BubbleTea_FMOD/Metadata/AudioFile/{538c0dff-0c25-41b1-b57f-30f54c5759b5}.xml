@@ -1,23 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{538c0dff-0c25-41b1-b57f-30f54c5759b5}">
-		<property name="assetPath">
-			<value>Menu - Elevator Music Loop (clean)-V1.wav</value>
-		</property>
-		<property name="isStreaming">
-			<value>true</value>
-		</property>
-		<property name="frequencyInKHz">
-			<value>44.0999985</value>
-		</property>
-		<property name="channelCount">
-			<value>2</value>
-		</property>
-		<property name="length">
-			<value>24</value>
-		</property>
-		<relationship name="masterAssetFolder">
-			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
-		</relationship>
-	</object>
-</objects>
+version https://git-lfs.github.com/spec/v1
+oid sha256:667a2e20939239ea01602fac9cc0ef0e301bc54cfbac7a1a66c76b621e5ee555
+size 689

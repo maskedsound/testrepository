@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{414f5f31-d00a-4a6a-be4c-a8665f920e44}">
-		<property name="assetPath">
-			<value>water splashing_4.wav</value>
-		</property>
-		<property name="frequencyInKHz">
-			<value>48</value>
-		</property>
-		<property name="channelCount">
-			<value>1</value>
-		</property>
-		<property name="length">
-			<value>1.5</value>
-		</property>
-		<relationship name="masterAssetFolder">
-			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
-		</relationship>
-	</object>
-</objects>
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec34c4c0505e33890100dc48def3bacc60e9799c5ba2714304a683e5f9cfbffa
+size 593

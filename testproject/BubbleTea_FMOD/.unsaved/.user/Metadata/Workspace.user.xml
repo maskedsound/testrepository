@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
-	<object class="Workspace" id="{a9278ee1-fa1f-4af4-a0c0-75fc63857031}">
-		<relationship name="projectSettings">
-			<destination>{6f2a6117-d4d3-429b-97dd-fd8ed8e0b340}</destination>
-		</relationship>
-		<relationship name="changelist">
-			<destination>{167fa91a-5d25-4e52-8501-cf9216d0f49a}</destination>
-		</relationship>
-		<relationship name="profilerSessionFolder">
-			<destination>{d354d58e-bd2a-457d-a1f7-8b31faafa2ed}</destination>
-		</relationship>
-	</object>
-	<object class="ProjectSettings" id="{6f2a6117-d4d3-429b-97dd-fd8ed8e0b340}">
-		<relationship name="activePlatform">
-			<destination>{14fd3d90-9818-4944-83ef-23f1de047ff3}</destination>
-		</relationship>
-	</object>
-	<object class="WorkspaceChangelist" id="{167fa91a-5d25-4e52-8501-cf9216d0f49a}" />
-</objects>
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3e9bb769a7e2a289ca0fe5d019dc0dd1afe7de487b1914a350c7c250f0e5d9
+size 861

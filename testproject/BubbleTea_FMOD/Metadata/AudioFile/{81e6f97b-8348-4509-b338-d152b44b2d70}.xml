@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{81e6f97b-8348-4509-b338-d152b44b2d70}">
-		<property name="assetPath">
-			<value>NPC_Walk_Footsteps3.wav</value>
-		</property>
-		<property name="frequencyInKHz">
-			<value>48</value>
-		</property>
-		<property name="channelCount">
-			<value>1</value>
-		</property>
-		<property name="length">
-			<value>0.14583333333333334</value>
-		</property>
-		<relationship name="masterAssetFolder">
-			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
-		</relationship>
-	</object>
-</objects>
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e53ea21b1a719d56c5c2a51b7157695f2f1119d8052bb0cf557513c5d8577c4
+size 611

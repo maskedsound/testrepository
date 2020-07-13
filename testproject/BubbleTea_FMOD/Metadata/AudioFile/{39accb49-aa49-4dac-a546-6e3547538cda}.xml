@@ -1,20 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<objects serializationModel="Studio.02.00.00">
-	<object class="AudioFile" id="{39accb49-aa49-4dac-a546-6e3547538cda}">
-		<property name="assetPath">
-			<value>Footsteps, Asphalt, Sneaker, Medium SND0989 copy 2.wav</value>
-		</property>
-		<property name="frequencyInKHz">
-			<value>96</value>
-		</property>
-		<property name="channelCount">
-			<value>1</value>
-		</property>
-		<property name="length">
-			<value>0.22985416666666666</value>
-		</property>
-		<relationship name="masterAssetFolder">
-			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
-		</relationship>
-	</object>
-</objects>
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e40ab49fb540ee7e40f403cbcbb2e66971d0ad60aa1cc67879a97098b5f63ed
+size 642
