@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{981c09fe-2078-43f8-b5c8-1a4ccb84529c}">
+		<property name="assetPath">
+			<value>Footsteps, Asphalt, Sneaker, Medium SND0989 copy 3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.249</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
+		</relationship>
+	</object>
+</objects>

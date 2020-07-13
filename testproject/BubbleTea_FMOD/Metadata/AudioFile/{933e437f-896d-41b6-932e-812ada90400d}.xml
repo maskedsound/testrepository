@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{933e437f-896d-41b6-932e-812ada90400d}">
+		<property name="assetPath">
+			<value>SportsCar_DriveBy.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>13.5</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{8f1d55cf-c9f2-4b0a-85ef-c933a47fea91}">
+		<property name="assetPath">
+			<value>NPC_Run_Footsteps3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>0.052916666666666667</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
+		</relationship>
+	</object>
+</objects>

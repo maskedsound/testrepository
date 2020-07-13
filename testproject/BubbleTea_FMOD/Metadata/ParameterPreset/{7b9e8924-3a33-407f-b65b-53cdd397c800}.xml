@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{7b9e8924-3a33-407f-b65b-53cdd397c800}">
+		<property name="name">
+			<value>FrappeFade</value>
+		</property>
+		<relationship name="folder">
+			<destination>{afceb5ef-f09f-41e3-81d8-cb056a946abf}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ac663e1a-d712-451e-84bf-a8d4e37144ed}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ac663e1a-d712-451e-84bf-a8d4e37144ed}">
+		<property name="initialValue">
+			<value>1</value>
+		</property>
+	</object>
+</objects>

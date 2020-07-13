@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{0ec74623-ceaa-41a1-a164-783a08a17f68}">
+		<property name="assetPath">
+			<value>Pass-By_Sports-Car_Single_035.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>96</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>18.880989583333335</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{537235ba-4bc1-4f41-a454-e20b5a7988cc}</destination>
+		</relationship>
+	</object>
+</objects>

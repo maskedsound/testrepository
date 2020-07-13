@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{59e7e733-f839-4500-ba55-11e058896fde}">
+		<property name="name">
+			<value>Distance</value>
+		</property>
+		<relationship name="folder">
+			<destination>{afceb5ef-f09f-41e3-81d8-cb056a946abf}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{50691e0b-a454-4e67-95ae-14faa2439df5}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{50691e0b-a454-4e67-95ae-14faa2439df5}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
